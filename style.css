@@ -1,0 +1,31 @@
+.navbar-custom {
+    background-color:rgb(32,192,225) ;
+    color:#ffffff;
+    border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#fff;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color:transparent;
+}
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
+}
+div.description{
+	width: 50%;
+	padding: 20px;
+    float: left;
+}
+div.listing {
+   float: right;
+	width: 20%;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+img {
+	background-attachment: fixed;
+}
